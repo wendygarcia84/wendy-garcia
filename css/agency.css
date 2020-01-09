@@ -435,8 +435,6 @@ header.masthead .intro-text .intro-heading {
   position: absolute;
   z-index: 100;
   left: 0;
-  width: 80px;
-  height: 80px;
   margin-left: 0;
   text-align: center;
   color: white;
@@ -505,8 +503,8 @@ header.masthead .intro-text .intro-heading {
   }
   .timeline > li .timeline-image {
     left: 50%;
-    width: 100px;
-    height: 100px;
+    width: 320px;
+    height: 320px;
     margin-left: -50px;
   }
   .timeline > li .timeline-image h4 {
